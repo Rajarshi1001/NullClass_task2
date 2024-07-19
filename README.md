@@ -27,3 +27,8 @@ pip install "tensorflow<2.11"
 ```
 
 The same environment `nullclass` can be used for running notebooks for other tasks as well. Now run the notebook named `task2.ipynb`. The GUI for the task 2 is implemented in the file named `gui_task2.py`.
+
+Run the following command to launch the GUI:
+```bash
+python gui_task2.py
+```
